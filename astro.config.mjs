@@ -11,4 +11,7 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()]
   },
+
+  site: 'https://drDrewBa.github.io',
+  base: 'portfolio',
 });
