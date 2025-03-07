@@ -15,7 +15,7 @@ const ContactMe = () => {
 				/>
 			</div>
 			<div className="w-20" />
-			<span className='font-medium'>Let's talk!</span>
+			<span className='font-medium'>Let&apos;s talk!</span>
 			<ArrowRightIcon className='w-5 h-5 transition-transform group-hover:translate-x-1' />
 		</div>
 	)
